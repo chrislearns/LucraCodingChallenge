@@ -22,6 +22,6 @@ No third party libraries were used in the development of this application, howev
 - NewStack
 - The extensions on View, UIApplication, and UIViewController
 
-Lastly, credit is given to the code for acquiring thumbnails from remote videos.
+Lastly, credit is given to the code for acquiring thumbnails from remote videos and the App Icon is from Flaticon
 
 Thank you for this opportunity.
